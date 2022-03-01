@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vgarciasouza
+- 👋 Hi, I’m Victor Hugo @vgarciasouza
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL, R and Tableau
 - 💞️ I’m looking to collaborate on ...
